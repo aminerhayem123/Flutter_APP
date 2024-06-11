@@ -50,7 +50,7 @@
       port: 5432,
     }); 
 ## Run the Flutter app.
-    
+    cd flutter_app
     flutter run -d browser 
 
 Built With
